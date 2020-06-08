@@ -1,0 +1,1064 @@
+{
+  "ordliste": [
+    {
+      "ord": "absolutely",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "accepted",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "acclaimed",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "accomplish",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "accomplishment",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "achievement",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "action",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "active",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "admire",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "adorable",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "adventure",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "affirmative",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "affluent",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "agree",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "agreeable",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "amazing",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "angelic",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "appealing",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "approve",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "aptitude",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "attractive",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "awesome",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "beaming",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "beautiful",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "believe",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "beneficial",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "bliss",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "bountiful",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "bounty",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "brave",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "bravo",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "brilliant",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "bubbly",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "calm",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "celebrated",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "certain",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "champ",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "champion",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "charming",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "cheery",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "choice",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "classic",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "classical",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "clean",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "commend",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "composed",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "congratulation",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "constant",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "cool",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "courageous",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "creative",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "cute",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "dazzling",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "delight",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "delightful",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "distinguished",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "divine",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "earnest",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "easy",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "ecstatic",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "effective",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "effervescent",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "efficient",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "effortless",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "electrifying",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "elegant",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "enchanting",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "encouraging",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "endorsed",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "energetic",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "energized",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "engaging",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "enthusiastic",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "essential",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "esteemed",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "ethical",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "excellent",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "exciting",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "exquisite",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "fabulous",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "fair",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "familiar",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "famous",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "fantastic",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "favorable",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "fetching",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "fine",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "fitting",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "flourishing",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "fortunate",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "free",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "fresh",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "friendly",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "fun",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "funny",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "generous",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "genius",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "genuine",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "giving",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "glamorous",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "glowing",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "good",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "gorgeous",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "graceful",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "great",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "green",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "grin",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "growing",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "handsome",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "happy",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "harmonious",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "healing",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "healthy",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "hearty",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "heavenly",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "honest",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "honorable",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "honored",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "hug",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "idea",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "ideal",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "imaginative",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "imagine",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "impressive",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "independent",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "innovate",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "innovative",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "instant",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "instantaneous",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "instinctive",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "intellectual",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "intelligent",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "intuitive",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "inventive",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "jovial",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "joy",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "jubilant",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "keen",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "kind",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "knowing",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "knowledgeable",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "laugh",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "learned",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "legendary",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "light",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "lively",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "lovely",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "lucid",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "lucky",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "luminous",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "marvelous",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "masterful",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "meaningful",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "merit",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "meritorious",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "miraculous",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "motivating",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "moving",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "natural",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "nice",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "novel",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "now",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "nurturing",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "nutritious",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "okay",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "one",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "open",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "optimistic",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "paradise",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "perfect",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "phenomenal",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "pleasant",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "pleasurable",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "plentiful",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "poised",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "polished",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "popular",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "positive",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "powerful",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "prepared",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "pretty",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "principled",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "productive",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "progress",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "prominent",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "protected",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "proud",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "quality",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "quick",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "quiet",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "ready",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "reassuring",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "refined",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "refreshing",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "rejoice",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "reliable",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "remarkable",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "resounding",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "respected",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "restored",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "reward",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "rewarding",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "right",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "robust",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "safe",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "satisfactory",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "secure",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "seemly",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "simple",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "skilled",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "skillful",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "smile",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "soulful",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "sparkling",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "special",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "spirited",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "spiritual",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "stirring",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "stunning",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "stupendous",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "success",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "successful",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "sunny",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "super",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "superb",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "supporting",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "surprising",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "terrific",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "thorough",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "thrilling",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "thriving",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "tops",
+      "vanskelighetsgrad": 6
+    },
+    {
+      "ord": "tranquil",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "transformative",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "transforming",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "trusting",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "truthful",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "unreal",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "unwavering",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "up",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "upbeat",
+      "vanskelighetsgrad": 1
+    },
+    {
+      "ord": "upright",
+      "vanskelighetsgrad": 3
+    },
+    {
+      "ord": "upstanding",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "valued",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "vibrant",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "victorious",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "victory",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "vigorous",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "virtuous",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "vital",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "vivacious",
+      "vanskelighetsgrad": 5
+    },
+    {
+      "ord": "wealthy",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "welcome",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "well",
+      "vanskelighetsgrad": 0
+    },
+    {
+      "ord": "whole",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "wholesome",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "willing",
+      "vanskelighetsgrad": 2
+    },
+    {
+      "ord": "wonderful",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "wondrous",
+      "vanskelighetsgrad": 10
+    },
+    {
+      "ord": "worthy",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "wow",
+      "vanskelighetsgrad": 9
+    },
+    {
+      "ord": "yes",
+      "vanskelighetsgrad": 8
+    },
+    {
+      "ord": "yummy",
+      "vanskelighetsgrad": 7
+    },
+    {
+      "ord": "zeal",
+      "vanskelighetsgrad": 4
+    },
+    {
+      "ord": "zealous",
+      "vanskelighetsgrad": 3
+    }
+  ]
+}
